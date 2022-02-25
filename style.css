@@ -1,19 +1,24 @@
 .head-div {
     text-align:center;
-    padding:20%;
-    padding-top:2%;
+    background-color:#2c3333;
+    color:#ffffff;
+    padding:0%;
+    padding-top:7%;
     padding-bottom:3%;
     }
 
     img {
-        max-width: auto;
-        height: auto;
+        width: 50%;
+        height: 50%;
+        object-fit: cover
       }
     
     .link-div{ 
         padding:20%;
         padding-top:1%;
         padding-bottom:1%;
+        background-color:#2c3333;
+        color:#2c3333;
     }
     
     .alink{
@@ -31,8 +36,8 @@
     }
     
     .alink:hover{
-        color:#313552;
-        background-color:#2c3333;
+        color:#ffffff;
+        background-color:#54bab9;
         border: 2px solid;
         border-color:#ffffff;
     }
