@@ -4,6 +4,11 @@
     padding-top:2%;
     padding-bottom:3%;
     }
+
+    img {
+        max-width: 100%;
+        height: auto;
+      }
     
     .link-div{ 
         padding:20%;
